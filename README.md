@@ -1,6 +1,6 @@
 # Computational Modeling of Cognitive Workload in Running-Specific Prosthesis Users
 
-This repository contains the computational models, scripts, and data used in the study "Evaluating Cognitive and Physical Workload in Transtibial Amputee Runners Using Enhanced Running-Specific Prostheses on Inclines" [or your actual title].
+This repository contains the computational models, scripts, and data used in the study "Lower-Limb-Running-Prosthesis-for-Inclines-A-Human-Performance-Modeling-Approach".
 
 ## Repository Contents
 
