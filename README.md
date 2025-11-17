@@ -29,7 +29,7 @@ This repository contains the computational models, scripts, and data used in the
 ## Usage
 
 ### Running CPM-GOMS Models
-1. Install Cogulator from [link]
+1. Install Cogulator from [https://cogulator.io/download.html]
 2. Open `cogulator-scripts/current_prosthesis_model.txt` in Cogulator
 3. Run simulation
 
@@ -44,13 +44,9 @@ If you use these materials, please cite:
 
 [Your citation information once published]
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
-
-[Your name and email]
+[Regan Kane regan.kane@ucalgary.ca]
+[Kennedy Connors kennedy.connors@ucalgary.ca]
 
 ## Acknowledgments
 
