@@ -21,10 +21,8 @@ This repository contains the computational models, scripts, and data used in the
 - `simulation_results.csv`: Raw simulation outputs
 
 ## Requirements
-
-- Cogulator (version X.X)
-- Python 3.x
-- [List any other dependencies]
+- Cogulator (version 4.5.2)
+- GPT: HPM-NL (Junho Park)
 
 ## Usage
 
@@ -34,17 +32,19 @@ This repository contains the computational models, scripts, and data used in the
 3. Run simulation
 
 ### Running HPM-NL Analysis
-```bash
-python hpm-nl-code/task_decomposition.py
-```
+The HPM-NL (Natural Language-based Human Performance Modeling) framework is implemented as a custom GPT in ChatGPT.
+1. Go to ChatGPT: https://chat.openai.com/
+2. Search for the custom GPT: [HPM-NL (by Junho Park]
+3. Upload the task decomposition file from `hpm-nl-code/task_decomposition.txt`
+4. Follow the prompts to generate workload estimates
 
 ## Citation
-
 If you use these materials, please cite:
 
-[Your citation information once published]
+[citation information once published]
 
 ## Contact
+[Junho Park Junho.Park@ucalgary.ca]
 [Regan Kane regan.kane@ucalgary.ca]
 [Kennedy Connors kennedy.connors@ucalgary.ca]
 
