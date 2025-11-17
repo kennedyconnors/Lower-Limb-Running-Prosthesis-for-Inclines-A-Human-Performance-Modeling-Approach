@@ -44,7 +44,7 @@ If you use these materials, please cite:
 [citation information once published]
 
 ## Contact
-[Junho Park Junho.Park@ucalgary.ca]
+[Junho Park junho.park@ucalgary.ca]
 [Regan Kane regan.kane@ucalgary.ca]
 [Kennedy Connors kennedy.connors@ucalgary.ca]
 
