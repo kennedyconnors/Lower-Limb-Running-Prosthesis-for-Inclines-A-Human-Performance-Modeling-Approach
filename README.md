@@ -34,7 +34,7 @@ This repository contains the computational models, scripts, and data used in the
 ### Running HPM-NL Analysis
 The HPM-NL (Natural Language-based Human Performance Modeling) framework is implemented as a custom GPT in ChatGPT.
 1. Go to ChatGPT: https://chat.openai.com/
-2. Search for the custom GPT: 'HPM-NL' by Junho Park
+2. Search for the custom GPT: `HPM-NL` by Junho Park
 4. Upload the task decomposition file from `hpm-nl-code/task_decomposition.txt`
 5. Follow the prompts to generate workload estimates
 
